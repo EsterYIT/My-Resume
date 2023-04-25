@@ -31,11 +31,7 @@
           <div class="site-nav">
             <nav role="navigation">
               <ul class="nav justify-content-center">
-                <li class="nav-item"><a class="nav-link" href="https://github.com/EsterYIT/TestAutomationProject" title="Test Automation Project"><i class="fab fa-github"></i><span class="menu-title sr-only">Github - Test Automation Project</span></a>
-                </li>
-				<li class="nav-item"><a class="nav-link" href="https://github.com/EsterYIT/Postman-Grafana" title="REST API - Postman"><i class="fab fa-github"></i><span class="menu-title sr-only">Github - REST API - Postman</span></a>
-                </li>
-				<li class="nav-item"><a class="nav-link" href="https://github.com/EsterYIT/TeamApp" title="TeamApp"><i class="fab fa-github"></i><span class="menu-title sr-only">Github - TeamApp</span></a>
+                <li class="nav-item"><a class="nav-link" href="https://github.com/EsterYIT?tab=repositories&q=&type=public" title="Projects in github"><i class="fab fa-github"></i><span class="menu-title sr-only">Githyub Projects</span></a>
                 </li>
               </ul>
             </nav>
