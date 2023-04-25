@@ -204,7 +204,7 @@
           <div class="h3">Ester Yitzhak</div>
           <div class="footer-nav">
             <nav role="navigation">
-              <ul class="center">
+              <ul class="nav justify-content-center">
                 <li class="nav-item"><a class="nav-link" href="https://github.com/EsterYIT?tab=repositories&q=&type=public" title="Projects on github"><i class="fab fa-github" style="font-size:24px"></i><span class="menu-title sr-only">Github Projects</span></a>
                 </li>
               </ul>
