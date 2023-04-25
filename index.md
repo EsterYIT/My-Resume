@@ -31,7 +31,7 @@
           <div class="site-nav">
             <nav role="navigation">
               <ul class="nav justify-content-center">
-                <li class="nav-item"><a class="nav-link" href="https://github.com/EsterYIT?tab=repositories&q=&type=public" title="Projects on github"><i class="fab fa-github"></i><span class="menu-title sr-only">Github Projects</span></a>
+                <li class="nav-item"><a class="nav-link" href="https://github.com/EsterYIT?tab=repositories&q=&type=public" title="Projects on github"><i class="fab fa-github" style="font-size:36px"></i><span class="menu-title sr-only">Github Projects</span></a>
                 </li>
               </ul>
             </nav>
