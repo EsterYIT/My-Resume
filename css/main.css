@@ -74,9 +74,6 @@ html {
 .active .nav-link {
   color: rgba(0, 0, 0, 0.8); }
 
-.nav-item + .nav-item {
-  margin-left: 1rem; }
-
 .cover {
   border-radius: 10px; }
 
