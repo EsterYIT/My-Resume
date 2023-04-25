@@ -201,7 +201,7 @@
     <footer class="pt-4 pb-4 text-muted text-center d-print-none">
       <div class="container">
         <div class="my-3">
-          <div class="h4">Ester Yitzhak</div>
+          <div class="h3" "nav justify-content-center">Ester Yitzhak</div>
           <div class="footer-nav">
             <nav role="navigation">
               <ul class="nav justify-content-center">
