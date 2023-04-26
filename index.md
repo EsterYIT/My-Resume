@@ -112,7 +112,7 @@
     <div class="timeline">
 	   <div class="timeline-card timeline-card-success card shadow-sm">
         <div class="card-body">
-          <div class="h5 mb-1">Full Stack Test Automation course <span class="text-muted h6"> from Atid College</span></div>
+          <div class="h5 mb-1">Full Stack Test Automation course <span class="text-muted h6"> from Atid Automation College</span></div>
           <div class="text-muted text-small mb-2">2023 - 2023</div>
 		   <div>
 			   <p>During the course, I wrote a final project that includes, a generic Java based automation infrastructure, and supports Web-Selenium, Server-REST API, Mobile-Appium, Desktop-WinAppDriver tests and more.. while interfacing to CI with Jenkins and MySQL.</p>
