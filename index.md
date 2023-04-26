@@ -88,35 +88,21 @@
   </div>
   <hr class="d-print-none"/>
   <div class="skills-section px-3 px-lg-4">
-    <h2 class="h3 mb-3">Professional Skills</h2>
+    <h2 class="h3 mb-3">Professional Skills</h2><br>
     <div class="row">
       <div class="col-md-6">
-        <div class="mb-2"><span>Java</span>
-          <div class="progress my-1">
-            <div class="progress-bar bg-primary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 100%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-          </div>
-        </div>
-        <div class="mb-2"><span>Selenium</span>
-          <div class="progress my-1">
-            <div class="progress-bar bg-primary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="200" data-aos-anchor=".skills-section" style="width: 100%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-          </div>
-        </div>
-        <div class="mb-2"><span>Appium Studio</span>
-          <div class="progress my-1">
-            <div class="progress-bar bg-primary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 100%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-          </div>
-        </div>
+        <h5>Java</h5>
+		   <hr class="rounded" data-aos-anchor=".skills-section">
+        <h5>Selenium</h5>
+        <hr class="rounded" data-aos-anchor=".skills-section" style="background-color:DodgerBlue;">
+        <h5>Appium Studio</h5>
+		  <hr class="rounded" data-aos-anchor=".skills-section">
       </div>
       <div class="col-md-6">
-        <div class="mb-2"><span>Rest API</span>
-          <div class="progress my-1">
-            <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 95%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-          </div>
-        </div>
-        <div class="mb-2"><span>Jenkins</span>
-          <div class="progress my-1">
-            <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="500" data-aos-anchor=".skills-section" style="width: 95%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-          </div>
+        <h5>Rest API</h5>
+           <hr class="rounded" data-aos-anchor=".skills-section">
+        <h5>Jenkins</h5>
+            <hr class="rounded" data-aos-anchor=".skills-section">
         </div>
       </div>
     </div>
