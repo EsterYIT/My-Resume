@@ -106,7 +106,6 @@
         </div>
       </div>
     </div>
-  </div>
   <hr class="d-print-none"/>
     <div class="education-section px-3 px-lg-4 pb-4">
     <h2 class="h3 mb-4">Education</h2>
