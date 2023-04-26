@@ -93,15 +93,15 @@
       <div class="col-md-6">
         <h4 style="color:#007EEE;">Java</h4>
 		   <hr class="rounded" data-aos-anchor=".skills-section">
-        <h5 style="color:#007EEE;">Selenium</h5>
+        <h4 style="color:#007EEE;">Selenium</h4>
         <hr class="rounded" data-aos-anchor=".skills-section">
-        <h5 style="color:#007EEE;">Appium Studio</h5>
+        <h4 style="color:#007EEE;">Appium Studio</h4>
 		  <hr class="rounded" data-aos-anchor=".skills-section">
       </div>
       <div class="col-md-6">
-        <h5 style="color:#29AB87;">Rest API</h5>
+        <h4 style="color:#29AB87;">Rest API</h4>
            <hr class="rounded" data-aos-anchor=".skills-section">
-        <h5 style="color:#29AB87;">Jenkins</h5>
+        <h4 style="color:#29AB87;">Jenkins</h4>
             <hr class="rounded" data-aos-anchor=".skills-section">
         </div>
       </div>
