@@ -94,7 +94,7 @@
         <h5>Java</h5>
 		   <hr class="rounded" data-aos-anchor=".skills-section">
         <h5>Selenium</h5>
-        <hr class="rounded" data-aos-anchor=".skills-section" style="background-color:DodgerBlue;">
+        <hr class="rounded" data-aos-anchor=".skills-section">
         <h5>Appium Studio</h5>
 		  <hr class="rounded" data-aos-anchor=".skills-section">
       </div>
