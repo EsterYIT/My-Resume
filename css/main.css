@@ -132,4 +132,8 @@ footer a:not(.nav-link) {
   .page-break {
     padding-top: 5rem;
     page-break-before: always; } }
+	hr.rounded {
+	  border-top: 8px solid #bbb;
+	  border-radius: 5px;
+    }
 	
